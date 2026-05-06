@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Hopper scale design and field integration · Deniz Can Dursun</title>
+<meta name="description" content="PLC-controlled hopper scale automation, integrated into two production lines and actively used on the floor." />
+<meta name="theme-color" content="#0E1116" />
+<meta name="author" content="Deniz Can Dursun" />
+
+<meta property="og:title" content="Hopper scale design and field integration · Deniz Can Dursun" />
+<meta property="og:description" content="PLC-controlled hopper scale automation, integrated into two production lines and actively used on the floor." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://denizcandursun.github.io/en/projects/hopper-scale.html" />
+<meta property="og:image" content="https://denizcandursun.github.io/assets/images/og/portfolio-cover.png" />
+<meta property="og:locale" content="en_US" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Hopper scale design and field integration · Deniz Can Dursun" />
+<meta name="twitter:description" content="PLC-controlled hopper scale automation, integrated into two production lines and actively used on the floor." />
+
+<link rel="canonical" href="https://denizcandursun.github.io/en/projects/hopper-scale.html" />
+<link rel="alternate" hreflang="tr" href="https://denizcandursun.github.io/projects/hopper-scale.html" />
+<link rel="alternate" hreflang="en" href="https://denizcandursun.github.io/en/projects/hopper-scale.html" />
+<link rel="alternate" hreflang="x-default" href="https://denizcandursun.github.io/projects/hopper-scale.html" />
+
+<link rel="icon" type="image/svg+xml" href="../../assets/images/favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../../assets/css/site.css" />
+<script defer src="../../assets/js/site.js"></script>
+</head>
+<body data-page="project">
+
+<a class="skip-link" href="#pageRoot">Skip to content</a>
+
+<header class="topbar">
+  <a class="brand" href="../index.html" aria-label="Deniz Can Dursun · Home">
+    <span class="brand-mark" aria-hidden="true">D</span>
+    <span class="brand-text">
+      <span class="brand-name">Deniz Can Dursun</span>
+      <span class="brand-role">M.Sc. Mechatronics · Maintenance &amp; Automation</span>
+    </span>
+  </a>
+  <nav class="desktop-nav" aria-label="Primary navigation">
+      <a class="nav-link" href="../index.html#home" data-section="home">Home</a>
+      <a class="nav-link" href="../index.html#profile" data-section="profile">Profile</a>
+      <a class="nav-link" href="../index.html#projects" data-section="projects">Projects</a>
+      <a class="nav-link" href="../index.html#thesis" data-section="thesis">Thesis</a>
+      <a class="nav-link" href="../index.html#experience" data-section="experience">Experience</a>
+      <a class="nav-link" href="../index.html#toolkit" data-section="toolkit">Toolkit</a>
+      <a class="nav-link" href="../index.html#contact" data-section="contact">Contact</a>
+  </nav>
+  <div class="topbar-actions">
+    <span class="sys-status" aria-label="System status">Open to work</span>
+    <a class="lang-toggle" href="../../projects/hopper-scale.html">TR</a>
+    <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="mobileDrawer" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<div class="mobile-drawer" id="mobileDrawer" data-open="false">
+  <nav aria-label="Mobile navigation">
+    <a class="nav-link" href="../index.html#home" data-section="home">Home</a>
+    <a class="nav-link" href="../index.html#profile" data-section="profile">Profile</a>
+    <a class="nav-link" href="../index.html#projects" data-section="projects">Projects</a>
+    <a class="nav-link" href="../index.html#thesis" data-section="thesis">Thesis</a>
+    <a class="nav-link" href="../index.html#experience" data-section="experience">Experience</a>
+    <a class="nav-link" href="../index.html#toolkit" data-section="toolkit">Toolkit</a>
+    <a class="nav-link" href="../index.html#contact" data-section="contact">Contact</a>
+  </nav>
+</div>
+
+<main id="pageRoot">
+
+  <section class="subpage-hero">
+    <div class="container">
+      <a class="subpage-back" href="../index.html">Back to home</a>
+      <div class="subpage-meta">
+        <span class="amber">Maintenance &amp; Automation · CASE/01</span>
+      </div>
+      <h1>Hopper scale design and field integration</h1>
+      <p class="subpage-lead">The hopper scale solution was designed to fit two production lines together — mechanical structure, operator use, control panel, and PLC logic handled as a single field problem.</p>
+      <div class="subpage-spec">
+        <div class="readout"><span class="readout-label">CASE</span><span class="readout-value">/HOPPER-SCALE</span></div>
+        <div class="readout"><span class="readout-label">Category</span><span class="readout-value">Maintenance & Auto.</span></div>
+        <div class="readout"><span class="readout-label">PLC</span><span class="readout-value">Fatek</span></div>
+        <div class="readout"><span class="readout-label">Status</span><span class="readout-value">Active in field</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <h2>Field solution</h2>
+      <div class="content-prose">
+        <p>The weighing process needed to become more controlled across two separate production lines and more manageable for the operator. The solution was set up not just as a mechanical assembly, but together with field use and control logic.</p>
+        <p>The Fatek PLC, operator panel, field elements, and control panel were planned as a single system. Assembly, panel layout, operator access, and field connections progressed with the production flow in mind.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <h2>Operating principle</h2>
+      <div class="content-prose">
+        <p>The system operates as a 5-step cycle: product falls from the conveyor into the hopper; the load cell weighs up to the operator-defined setpoint; when the target is reached, a piston opens the slide and the product discharges to the lower belt; when the slide closes, a millisecond-level reset signal is sent to the panel so tare is auto-cleared.</p>
+      </div>
+      <figure class="content-figure" style="margin-top: 24px;">
+        <img src="../../assets/images/projects/hopper-working-principle.svg" alt="Schematic of the hopper scale 5-step operating principle" loading="lazy" />
+        <figcaption><span class="id">FIG.H · 5-STEP DOSING CYCLE</span></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <h2>Tools and components</h2>
+      <div class="project-tags" style="margin-top: 16px;">
+        <span class="project-tag">Fatek PLC</span> <span class="project-tag">Control panel</span> <span class="project-tag">Operator panel</span> <span class="project-tag">Load cell</span> <span class="project-tag">Pneumatic piston</span> <span class="project-tag">Field cabling</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <h2>Field views</h2>
+      <div class="figure-grid">
+        <figure class="content-figure">
+        <img src="../../assets/images/projects/hooper-front.webp" alt="Front view of the hopper scale" loading="lazy" />
+        <figcaption><span class="id">FIG.01</span><span>Front view of the hopper scale</span></figcaption>
+      </figure>
+        <figure class="content-figure">
+        <img src="../../assets/images/projects/hooper-top.webp" alt="Top layout and product flow" loading="lazy" />
+        <figcaption><span class="id">FIG.02</span><span>Top layout and product flow</span></figcaption>
+      </figure>
+        <figure class="content-figure">
+        <img src="../../assets/images/projects/hooper-control-panel.webp" alt="Control panel layout" loading="lazy" />
+        <figcaption><span class="id">FIG.03</span><span>Control panel layout</span></figcaption>
+      </figure>
+        <figure class="content-figure">
+        <img src="../../assets/images/projects/hooper-console.webp" alt="Operator panel and control interface" loading="lazy" />
+        <figcaption><span class="id">FIG.04</span><span>Operator panel and control interface</span></figcaption>
+      </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="subpage-foot">
+    <div class="container">
+      <div class="related-head">
+        <span class="panel-tab-num">§ OTHER WORK</span>
+      </div>
+      <div class="related-grid">
+        <a class="related-card" href="synrm-thesis-case-study.html">
+        <div class="related-kicker">Thesis & Analysis</div>
+        <h3>Thesis on SynRM rotor architectures</h3>
+        <span class="related-cta">Detail →</span>
+      </a>
+        <a class="related-card" href="motor-testing-work.html">
+        <div class="related-kicker">Motor validation</div>
+        <h3>Testing and validation on PMSM, BLDC and induction motors</h3>
+        <span class="related-cta">Detail →</span>
+      </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <p class="footer-motto">measure, verify, run</p>
+      <p class="footer-meta">© 2026 · Deniz Can Dursun</p>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite">Email address copied.</div>
+
+</body>
+</html>

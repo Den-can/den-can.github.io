@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#0E1116"/>
+<g opacity="0.45" stroke="#1B2230" stroke-width="0.5">
+<line x1="0" y1="0" x2="0" y2="1000"/>
+<line x1="40" y1="0" x2="40" y2="1000"/>
+<line x1="80" y1="0" x2="80" y2="1000"/>
+<line x1="120" y1="0" x2="120" y2="1000"/>
+<line x1="160" y1="0" x2="160" y2="1000"/>
+<line x1="200" y1="0" x2="200" y2="1000"/>
+<line x1="240" y1="0" x2="240" y2="1000"/>
+<line x1="280" y1="0" x2="280" y2="1000"/>
+<line x1="320" y1="0" x2="320" y2="1000"/>
+<line x1="360" y1="0" x2="360" y2="1000"/>
+<line x1="400" y1="0" x2="400" y2="1000"/>
+<line x1="440" y1="0" x2="440" y2="1000"/>
+<line x1="480" y1="0" x2="480" y2="1000"/>
+<line x1="520" y1="0" x2="520" y2="1000"/>
+<line x1="560" y1="0" x2="560" y2="1000"/>
+<line x1="600" y1="0" x2="600" y2="1000"/>
+<line x1="640" y1="0" x2="640" y2="1000"/>
+<line x1="680" y1="0" x2="680" y2="1000"/>
+<line x1="720" y1="0" x2="720" y2="1000"/>
+<line x1="760" y1="0" x2="760" y2="1000"/>
+<line x1="800" y1="0" x2="800" y2="1000"/>
+<line x1="840" y1="0" x2="840" y2="1000"/>
+<line x1="880" y1="0" x2="880" y2="1000"/>
+<line x1="920" y1="0" x2="920" y2="1000"/>
+<line x1="960" y1="0" x2="960" y2="1000"/>
+<line x1="1000" y1="0" x2="1000" y2="1000"/>
+<line x1="1040" y1="0" x2="1040" y2="1000"/>
+<line x1="1080" y1="0" x2="1080" y2="1000"/>
+<line x1="1120" y1="0" x2="1120" y2="1000"/>
+<line x1="1160" y1="0" x2="1160" y2="1000"/>
+<line x1="1200" y1="0" x2="1200" y2="1000"/>
+<line x1="1240" y1="0" x2="1240" y2="1000"/>
+<line x1="1280" y1="0" x2="1280" y2="1000"/>
+<line x1="1320" y1="0" x2="1320" y2="1000"/>
+<line x1="1360" y1="0" x2="1360" y2="1000"/>
+<line x1="1400" y1="0" x2="1400" y2="1000"/>
+<line x1="1440" y1="0" x2="1440" y2="1000"/>
+<line x1="1480" y1="0" x2="1480" y2="1000"/>
+<line x1="1520" y1="0" x2="1520" y2="1000"/>
+<line x1="1560" y1="0" x2="1560" y2="1000"/>
+<line x1="1600" y1="0" x2="1600" y2="1000"/>
+<line x1="0" y1="0" x2="1600" y2="0"/>
+<line x1="0" y1="40" x2="1600" y2="40"/>
+<line x1="0" y1="80" x2="1600" y2="80"/>
+<line x1="0" y1="120" x2="1600" y2="120"/>
+<line x1="0" y1="160" x2="1600" y2="160"/>
+<line x1="0" y1="200" x2="1600" y2="200"/>
+<line x1="0" y1="240" x2="1600" y2="240"/>
+<line x1="0" y1="280" x2="1600" y2="280"/>
+<line x1="0" y1="320" x2="1600" y2="320"/>
+<line x1="0" y1="360" x2="1600" y2="360"/>
+<line x1="0" y1="400" x2="1600" y2="400"/>
+<line x1="0" y1="440" x2="1600" y2="440"/>
+<line x1="0" y1="480" x2="1600" y2="480"/>
+<line x1="0" y1="520" x2="1600" y2="520"/>
+<line x1="0" y1="560" x2="1600" y2="560"/>
+<line x1="0" y1="600" x2="1600" y2="600"/>
+<line x1="0" y1="640" x2="1600" y2="640"/>
+<line x1="0" y1="680" x2="1600" y2="680"/>
+<line x1="0" y1="720" x2="1600" y2="720"/>
+<line x1="0" y1="760" x2="1600" y2="760"/>
+<line x1="0" y1="800" x2="1600" y2="800"/>
+<line x1="0" y1="840" x2="1600" y2="840"/>
+<line x1="0" y1="880" x2="1600" y2="880"/>
+<line x1="0" y1="920" x2="1600" y2="920"/>
+<line x1="0" y1="960" x2="1600" y2="960"/>
+<line x1="0" y1="1000" x2="1600" y2="1000"/>
+</g>
+<rect x="0" y="0" width="1600" height="58" fill="#161A20"/>
+<line x1="0" y1="58" x2="1600" y2="58" stroke="#2A3140" stroke-width="0.5"/>
+<circle cx="22" cy="29" r="4" fill="#5DD39E"/>
+<text x="38" y="34" fill="#E8A33D" font-family="IBM Plex Mono, monospace" font-size="14" font-weight="500" letter-spacing="2">FIG.A · MOTOR TEST BENCH</text>
+<text x="1578" y="34" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="12" letter-spacing="1.6" text-anchor="end">DYNO + DAQ + LOAD</text>
+<text x="48" y="170" fill="#E8E6E0" font-family="Inter, sans-serif" font-size="68" font-weight="500" letter-spacing="-2">Motor test ve doğrulama</text>
+<text x="48" y="220" fill="#B5B0A6" font-family="Inter, sans-serif" font-size="28">PMSM · BLDC · asenkron · dinamometre tabanlı doğrulama</text>
+<rect x="220" y="580" width="1160" height="40" fill="#1B2230" stroke="#3A4456" stroke-width="0.8"/>
+<rect x="220" y="620" width="1160" height="20" fill="#131820" stroke="#2A3140" stroke-width="0.5"/>
+<rect x="250" y="480" width="260" height="120" fill="#161A20" stroke="#3A4456" stroke-width="1"/>
+<circle cx="380" cy="540" r="42" fill="#131820" stroke="#E8A33D" stroke-width="1.5"/>
+<circle cx="380" cy="540" r="6" fill="#E8A33D"/>
+<circle cx="404" cy="554" r="4" fill="none" stroke="#5BC0DE" stroke-width="1"/>
+<circle cx="356" cy="554" r="4" fill="none" stroke="#5BC0DE" stroke-width="1"/>
+<circle cx="380" cy="512" r="4" fill="none" stroke="#5BC0DE" stroke-width="1"/>
+<text x="380" y="608" fill="#E8E6E0" font-family="IBM Plex Mono, monospace" font-size="14" text-anchor="middle" letter-spacing="2">DUT · MOTOR</text>
+<text x="380" y="455" fill="#E8A33D" font-family="IBM Plex Mono, monospace" font-size="11" text-anchor="middle" letter-spacing="2">PMSM/BLDC/IM</text>
+<rect x="510" y="528" width="180" height="24" fill="#1B2230" stroke="#3A4456"/>
+<line x1="510" y1="540" x2="690" y2="540" stroke="#E8A33D" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="600" y="510" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" text-anchor="middle" letter-spacing="2">COUPLING</text>
+<rect x="690" y="500" width="160" height="80" fill="#161A20" stroke="#3A4456"/>
+<text x="770" y="535" fill="#E8E6E0" font-family="IBM Plex Mono, monospace" font-size="13" text-anchor="middle" letter-spacing="2">τ-SENSOR</text>
+<text x="770" y="555" fill="#5BC0DE" font-family="IBM Plex Mono, monospace" font-size="11" text-anchor="middle">TORK ÖLÇER</text>
+<line x1="850" y1="540" x2="1050" y2="540" stroke="#E8A33D" stroke-width="1.2" stroke-dasharray="6 4"/>
+<rect x="1050" y="460" width="260" height="160" fill="#161A20" stroke="#3A4456" stroke-width="1"/>
+<circle cx="1180" cy="540" r="58" fill="#131820" stroke="#5BC0DE" stroke-width="1.5"/>
+<circle cx="1180" cy="540" r="34" fill="none" stroke="#3A4456" stroke-width="0.8"/>
+<circle cx="1180" cy="540" r="5" fill="#5BC0DE"/>
+<text x="1180" y="608" fill="#E8E6E0" font-family="IBM Plex Mono, monospace" font-size="14" text-anchor="middle" letter-spacing="2">DYNAMOMETER</text>
+<text x="1180" y="440" fill="#5BC0DE" font-family="IBM Plex Mono, monospace" font-size="11" text-anchor="middle" letter-spacing="2">YÜK · LOAD</text>
+<rect x="620" y="270" width="360" height="100" fill="#161A20" stroke="#3A4456"/>
+<rect x="620" y="270" width="360" height="22" fill="#131820" stroke="#2A3140"/>
+<text x="632" y="286" fill="#E8A33D" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">DAQ · DATA ACQUISITION</text>
+<text x="800" y="332" fill="#E8E6E0" font-family="IBM Plex Mono, monospace" font-size="16" text-anchor="middle" letter-spacing="2">CH1·CH2·CH3·CH4·CH5·CH6</text>
+<text x="800" y="354" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" text-anchor="middle">τ · n · V · I · T · vibration</text>
+<path d="M770 500 L770 410 L710 410 L710 370" fill="none" stroke="#5BC0DE" stroke-width="1" stroke-dasharray="4 3" opacity="0.7"/>
+<path d="M380 480 L380 390 L750 390 L750 370" fill="none" stroke="#E8A33D" stroke-width="1" stroke-dasharray="4 3" opacity="0.7"/>
+<path d="M1180 460 L1180 400 L850 400 L850 370" fill="none" stroke="#5DD39E" stroke-width="1" stroke-dasharray="4 3" opacity="0.7"/>
+<rect x="48" y="800" width="280" height="100" fill="#161A20" stroke="#2A3140" stroke-width="0.5"/>
+<text x="66" y="828" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">τ · TORK</text>
+<text x="66" y="872" fill="#E8A33D" font-family="IBM Plex Mono, monospace" font-size="32" font-weight="500">45 N·m</text>
+<rect x="344" y="800" width="280" height="100" fill="#161A20" stroke="#2A3140" stroke-width="0.5"/>
+<text x="362" y="828" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">n · DEVİR</text>
+<text x="362" y="872" fill="#5BC0DE" font-family="IBM Plex Mono, monospace" font-size="32" font-weight="500">1480 rpm</text>
+<rect x="640" y="800" width="280" height="100" fill="#161A20" stroke="#2A3140" stroke-width="0.5"/>
+<text x="658" y="828" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">I · AKIM</text>
+<text x="658" y="872" fill="#5DD39E" font-family="IBM Plex Mono, monospace" font-size="32" font-weight="500">12.4 A</text>
+<rect x="936" y="800" width="280" height="100" fill="#161A20" stroke="#2A3140" stroke-width="0.5"/>
+<text x="954" y="828" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">V · GERİLİM</text>
+<text x="954" y="872" fill="#E8A33D" font-family="IBM Plex Mono, monospace" font-size="32" font-weight="500">380 V</text>
+<rect x="1232" y="800" width="280" height="100" fill="#161A20" stroke="#2A3140" stroke-width="0.5"/>
+<text x="1250" y="828" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">T · SICAKLIK</text>
+<text x="1250" y="872" fill="#5BC0DE" font-family="IBM Plex Mono, monospace" font-size="32" font-weight="500">64 °C</text>
+<text x="48" y="970" fill="#8A8F98" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="2">SCHEMATIC · NOT TO SCALE · DUT INSTRUMENTED VIA 6-CH DAQ</text>
+</svg>
